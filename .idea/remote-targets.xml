@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL" type="wsl" uuid="9f9d176d-0c1a-4a0e-a1e2-791f2a5b5e89">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/home/biel/.asdf/installs/java/openjdk-21.0.2" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
